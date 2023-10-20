@@ -8,8 +8,11 @@ I first started the index.js file for the makeDesign function. I then created di
 
 I struggled with usng the const inquirer at first. I was trying to use import adn was getting errors until I realized my mistake and then changed it to const inquirer= requirer. The biggest challenge was making sure I had the syntax correctly. I was referencing the websites listed below and it took a few time to make sure the tests came back and created the logo successfully without any error codes.
 ## Technologies Used
-- Node 
+- Node -- simply install node and then run node index.js to start application
 - JavaScript
+
+## Installation 
+- After cloning application, install node and then type index.js in the integrated terminal. Once you answer all of the questions, check the examples folder and it will be in the logo.svg file. 
 ## Credits 
 - “Color Hex Color Codes.” Color Hex Codes, www.color-hex.com/. Accessed 18 Oct. 2023.
 - “CSS Colors.” W3Schools, www.w3schools.com/cssref/css_colors.php. Accessed 20 Oct. 2023.
