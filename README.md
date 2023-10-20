@@ -1,6 +1,7 @@
 # SVG Logo 
 
-## Link to demo/video()
+## Link to demo/video
+- [Click here to watch video](https://drive.google.com/file/d/1_Ss_StJV9Rak1KuAL7nGhSQC4WkKF3oV/view)
 ## Overview & Description
 This was a challenge to make a SVG Logo using node and using JavaScript. The goal was to make an application in the terminal/command-line that asks users the colors and type of shape they want for a SVG logo and once the user answers everything, the new logo appears in the example folder under the logo.svg file. I used the file and folder structure from the bootcamp description and then I used the project we had just done in class to help with the module.exports to the correct files.
 
